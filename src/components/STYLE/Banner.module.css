@@ -1,0 +1,19 @@
+.main{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.box{
+    height: 10%;
+    width: 90%;
+    cursor: pointer;
+    
+}
+
+.box img{
+    width: 100%;
+    
+}
